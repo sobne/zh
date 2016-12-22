@@ -1,4 +1,5 @@
-#肖小彬_简历 `.Net`  
+
+# 肖小彬_简历 `.Net`  
 
  联系电话：18202879957 | 电子邮箱：sobne@qq.com 
 
@@ -81,9 +82,9 @@
   * PHP | Java | Vb/vba  
    
 ### 社交网络  
-  * facebook： https://www.facebook.com/sobne.shaw  
-  * twitter：  https://twitter.com/sobne  
-  * linkedin： www.linkedin.com/in/sobne   
+  * facebook： [https://www.facebook.com/sobne.shaw](https://www.facebook.com/sobne.shaw)
+  * twitter：  [https://twitter.com/sobne](https://twitter.com/sobne)
+  * linkedin： [www.linkedin.com/in/sobne](www.linkedin.com/in/sobne)
   * 微信：     sobne shaw  
   * QQ：       84710657  
  
@@ -95,4 +96,3 @@
 [View On English](https://sobne.github.io/en)
  :e-mail:
  :phone:
- 
