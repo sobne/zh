@@ -60,8 +60,8 @@
    
 ### 教育  
 > `2003-2007` 长沙理工大学  
->    * 计算机科学与技术  
->    * 本科学历, 学士学位  
+   * 计算机科学与技术  
+   * 本科学历, 学士学位  
     
 ### 个人奖项  
 > 证书  
@@ -78,7 +78,7 @@
   * HTML/CSS | javascript | jQuery | EasyUi  
   * Webservice | Webapi | Wcf | Remoting  
   * AutoCAD | Office 二次开发  
-  * 串口编程  
+  * 串口编程 | 
   * PHP | Java | Vb/vba  
     
 ### 社交网络  
