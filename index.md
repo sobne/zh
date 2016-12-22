@@ -62,16 +62,16 @@
 > `2003-2007` 长沙理工大学  
 >    * 计算机科学与技术  
 >    * 本科学历, 学士学位  
-
+    
 ### 个人奖项  
 > 证书  
 >    * 软件设计师  
-  
+    
 ### 语言  
 > 英语  
 >    * 听说:*一般*  
 >    * 读写:*良好*  
-   
+    
 ### IT技能  
   * .NET | asp.net MVC  
   * MsSql | Oracle | MySql | Sqlite | Nosql  
@@ -80,14 +80,14 @@
   * AutoCAD | Office 二次开发  
   * 串口编程  
   * PHP | Java | Vb/vba  
-   
+    
 ### 社交网络  
   * facebook： [https://www.facebook.com/sobne.shaw](https://www.facebook.com/sobne.shaw)
   * twitter：  [https://twitter.com/sobne](https://twitter.com/sobne)
   * linkedin： [www.linkedin.com/in/sobne](www.linkedin.com/in/sobne)
   * 微信：     sobne shaw  
   * QQ：       84710657  
- 
+     
 ### 个人优势  
 > 踏实,认真,负责。新技术接受能力强。  
   
